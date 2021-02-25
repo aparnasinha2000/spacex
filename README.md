@@ -10,7 +10,7 @@ To run the app
 3. Run the app on local host
    npm start
 
- Dependencies 
+ Dependencies : 
     "@babel/plugin-transform-react-jsx": "^7.10.4",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -20,3 +20,5 @@ To run the app
     "react-bootstrap": "^1.3.0",
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.3"
+    
+   
