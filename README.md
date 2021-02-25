@@ -1,13 +1,13 @@
 # spacex
 To run the app
 
-1. Clone the repository on your local system
+1. Clone the repository on your local system : 
   git clone https://github.com/aparnasinha2000/spacex.git
 
-2. In the global environment, install dependencies
+2. In the global environment, install dependencies : 
    npm install
 
-3. Run the app on local host
+3. Run the app on local host : 
    npm start
 
  Dependencies : 
