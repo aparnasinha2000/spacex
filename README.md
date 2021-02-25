@@ -11,7 +11,7 @@ To run the app
    npm start
 
  Dependencies : 
-    "@babel/plugin-transform-react-jsx": "^7.10.4",
+    "@babel/plugin-transform-react-jsx": "^7.10.4", </br>
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
